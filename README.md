@@ -14,3 +14,4 @@ Implementation of different algorithms in javascript.
 2. [DFS-Depth First Search](https://www.javatpoint.com/depth-first-search-algorithm)
 3. [Tower of Hanoi](https://www.guru99.com/program-for-tower-of-hanoi.html)
 4. [Linked List](https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm)
+5. [Doubly Linked List](https://medium.com/geekculture/doubly-linked-lists-javascript-b13cc21ca59d)
